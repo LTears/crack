@@ -11,7 +11,7 @@ go build main.go </br>
 ```
 ➜  crack git:(master) ✗ go run main.go    --help               
 -P string
-    filename list or username
+    filename list or password
 -U string
     filename list or username
 -i string
